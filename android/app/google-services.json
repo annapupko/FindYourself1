@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "798790664697",
+    "project_id": "find-yourself-b2355",
+    "storage_bucket": "find-yourself-b2355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798790664697:android:9de401a926507b88c5bd28",
+        "android_client_info": {
+          "package_name": "com.findyourself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798790664697-ea8934p7r68nh8aks75hm9tc7ijkni70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.findyourself",
+            "certificate_hash": "899c8aefb2291d633fcceaba21ccda0aa005f7ad"
+          }
+        },
+        {
+          "client_id": "798790664697-l4ame1ob6j07mpdtaitvmb7vvgjmjgoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmzCr2XDALDYYGD0LjG4KJT-L_qQM7sFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798790664697-l4ame1ob6j07mpdtaitvmb7vvgjmjgoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
